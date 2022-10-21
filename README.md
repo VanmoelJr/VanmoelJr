@@ -1,4 +1,6 @@
-### Hi there 👋
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[![@vanmoel's Holopin board](https://holopin.me/vanmoel)](https://holopin.io/@vanmoel)
 
 <!--
 **VanmoelJr/VanmoelJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
